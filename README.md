@@ -1,6 +1,8 @@
 # Superblocks
 A data analysis on parking spaces and transit modalities in San Diego to find the best street to mark as a pedestrian-only zones.
-The heat map shows the yellow, orange and red locations where its better to convert the place into a pedestrian-only zone.
+1 - The first heat map shows the ideal street to convert into a pedestrian-only zone.
+2 - The following heat maps show the locations which are more likely to be used by pedestrians at different times of the day.
+3 - The heat map of the location is ranked from yellow to purple
 
 ![Alt text](/19141820_10155225747975638_1592025381_n.png?raw=true "Heat Map")
 ![Alt text](/19179484_10207193145706310_873525578_o.png?raw=true "Heat Map")
